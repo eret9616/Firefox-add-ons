@@ -1,0 +1,4 @@
+·DF Youtube
+·Element Blocker
+·Most Recent Tab (set to Control +2 as recent tab,and change firefox sourcecode to set Control+1 as previous tab)
+·Vimium
